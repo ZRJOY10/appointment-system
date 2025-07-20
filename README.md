@@ -24,23 +24,27 @@ A modern, responsive web application for booking library visits with a slot-base
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/nbc-library-appointment.git
 cd nbc-library-appointment
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -78,11 +82,13 @@ src/
 ## 🎨 Key Features
 
 ### Booking Process
+
 - **Step 1**: Date selection with availability checking
 - **Step 2**: Slot selection (1-20)
 - **Step 3**: User information and confirmation
 
 ### Receipt Generation
+
 - Browser-native printing
 - Professional formatting
 - First-come-first-serve notice
@@ -91,11 +97,13 @@ src/
 ## 🔧 Build and Deploy
 
 ### Build for Production
+
 ```bash
 npm run build
 ```
 
 ### Preview Production Build
+
 ```bash
 npm run preview
 ```
@@ -115,6 +123,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 For questions or support, please contact:
+
 - Email: info@nbclibrary.com
 - Phone: +1 (555) 123-4567
 
